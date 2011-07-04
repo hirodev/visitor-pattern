@@ -1,0 +1,1 @@
+I used the visitor pattern here as instructed. For such a small project, it wasn’t really necessary to apply this pattern. Had we known that there were numerous such features needing to be added soon, this may have been the right choice. I stuck with using the pattern to demonstrate my ability to use it.

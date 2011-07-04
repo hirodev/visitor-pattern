@@ -1,0 +1,9 @@
+Test 1. Visitor
+-Create an Interface or Abstract base Class 'Shape'.
+-Implement three concrete Shapes: 'Circle', 'Rectangle', 'Triangle'.
+
+Consider these shapes to be your data model. 
+-Apply the visitor pattern to your data model.
+-write an AreaVisitor that computes the area of any data model object.
+-Write a main that makes an arbitrary instance of a data model and apply the AreaVisitor.   
+   

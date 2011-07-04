@@ -1,0 +1,5 @@
+$ ./visitor
+Circle with radius 4 units has area 50.2654 units squared.
+Rectangle with height 3 units and width 4 units has area 12 units squared.
+Triangle with base 10 units and height 6 units has area 30 units squared.
+
